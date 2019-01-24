@@ -1,0 +1,27 @@
+= Info 
+Patrik Suzzi (c)
+:experimental:
+:keywords: Algo Info                                                 
+:imagesdir: ./img
+
+Information about algorithms and data structures
+== Preamble
+
+Knowledge of algorithms and data structures is important for software engineers. To be good at solving problems you need practice. Here is some resource to make practie, and suggestion on the topic.
+
+== Some problems
+
+Here is some good problem to solve
+https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string#!
+
+== Solutions
+
+In this repository, you'll find the solutions to the above problems.
+
+== Some useful Algorithms
+
+
+
+== Some useful Data Structures
+
+HashMap, Heap
