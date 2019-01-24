@@ -12,6 +12,15 @@ Knowledge of algorithms and data structures is important for software engineers.
 == Some problems
 
 Here is some good problem to solve
+
+Ex 01 - Rotate a 2D array without using extra space
+
+https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0
+
+Here, the challenge is to rotate a 2D matrix without using extra space.
+
+
+Exercise 02
 https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string#!
 
 == Solutions
