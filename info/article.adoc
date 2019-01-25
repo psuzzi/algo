@@ -13,9 +13,11 @@ Knowledge of algorithms and data structures is important for software engineers.
 
 Here is some good problem to solve
 
-Ex 01 - Rotate a 2D array without using extra space
+Ex 01 - Arrays - Rotate a 2D array without using extra space
 
-https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0
+Rotate a NxN matrix 90 degrees clockwise. The matrix is provided as 1D array, the rotation should be performec in-place.
+
+see: https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0
 
 Here, the challenge is to rotate a 2D matrix without using extra space.
 
