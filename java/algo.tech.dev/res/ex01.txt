@@ -1,0 +1,9 @@
+4
+3[abc]4[ab]c
+abcabcabcababababc
+10[a]
+aaaaaaaaaa
+2[3[a]b]
+aaabaaab
+[]
+
